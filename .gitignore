@@ -1,0 +1,39 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Tests / tooling
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs / local data
+*.log
+*.sqlite3
+.ipynb_checkpoints/
