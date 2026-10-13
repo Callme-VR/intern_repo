@@ -37,3 +37,13 @@ Thumbs.db
 *.log
 *.sqlite3
 .ipynb_checkpoints/
+
+# Assignment-specific (not part of the submission)
+db/
+Sample_data/
+sample_data/
+sample_seed.py
+PROBLEM_STATEMENT.docx
+DATA_MODEL.md
+openapi.yaml
+Explanation.md
