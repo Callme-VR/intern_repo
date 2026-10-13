@@ -1,6 +1,6 @@
 # Employee Attendance & Analytics API
 
-REST API for recording attendance and reporting workforce analytics. Built with **FastAPI** and **MongoDB**.
+FAST API for recording attendance and reporting workforce analytics. Built with **FastAPI** and **MongoDB**.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688)
